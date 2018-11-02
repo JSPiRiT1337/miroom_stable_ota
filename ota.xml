@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>MiRoom_Stable</RomName>
+  <VersionName>Redmi4A_MIUI_10.1.1.0_MiRoom_7.1.2_port</VersionName>
+  <VersionNumber type="integer">20181106</VersionNumber>
+  <DirectUrl>https://datapacket.dl.sourceforge.net/project/team-tentacles/PORTs/MiRoom/Stable/Redmi4A_MIUI_10.1.1.0_MiRoom_7.1.2_port.zip</DirectUrl>
+  <HttpUrl>https://sourceforge.net/projects/team-tentacles/files/PORTs/MiRoom/</HttpUrl>
+  <Android>7.1.2</Android>
+  <CheckMD5>8d7ed79b7a780a1ebffde07d6032a007</CheckMD5>
+  <FileSize type="integer">1234158885</FileSize>
+  <Developer>JSPiRiT</Developer>
+  <WebsiteURL nil="true" />
+  <DonateURL nil="true" />
+  <Changelog> 
+
+  </Changelog>
+</ROM>
+ 
